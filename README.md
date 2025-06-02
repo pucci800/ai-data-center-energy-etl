@@ -1,4 +1,4 @@
-# ai-data-center-energy-etl-
+# ai-data-center-energy-etl
 
 # AI Data Center Energy Usage – ETL Pipeline Project
 
