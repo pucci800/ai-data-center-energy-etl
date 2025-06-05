@@ -3,7 +3,7 @@
 # AI Data Center Energy Usage – ETL Pipeline Project
 
 📌 **Status:** In Progress  
-Final push with full code and Tableau dashboard by June 3, 2025.
+Final push with full code and Tableau dashboard by June 7, 2025.
 
 ---
 
