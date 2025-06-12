@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Logs
+logs/
+
+# Secret files
+secrets/
+
+# Screenshots (just keeping the folder ignored, no optional note)
+screenshots/
