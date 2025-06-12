@@ -1,4 +1,4 @@
-# ai-data-center-energy-etl
+# ai_dc_energy_demand
 
 # AI Data Center Energy Usage – ETL Pipeline Project
 
