@@ -50,5 +50,5 @@ Built with SQL, Python, Docker, BigQuery, and Tableau for real-world impact and 
 
 ---
 
-## 🔗 Repository Link  
-https://github.com/pucci800/ai-data-center-energy-etl
+## 🔗 Repository Link 
+https://github.com/pucci800/ai_dc_energy_demand
