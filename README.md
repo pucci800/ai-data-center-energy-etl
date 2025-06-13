@@ -18,7 +18,9 @@ Built with SQL, Python, Docker, BigQuery, and Tableau for real-world impact and 
 - SQL (BigQuery)
 - Docker
 - Tableau
-- Apache Airflow *(planned)*
+- PyCharm
+- Apache Airflow (planned)
+- FastAPI (planned)
 
 ---
 
