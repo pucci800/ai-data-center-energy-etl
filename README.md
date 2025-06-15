@@ -35,8 +35,8 @@ ai_dc_energy_demand/
 ## Tableau Dashboard
 
 
-(https://public.tableau.com/app/profile/peter.puoch/viz/AIDataCenterEnergyDemandDashboard/EnergyMetrics)
-This Tableau dashboard visualizes key trends in AI data center electricity consumption, featuring metrics such as:
+
+(https://public.tableau.com/app/profile/peter.puoch/viz/AIDataCenterEnergyDemandDashboard/AIEnergyDemand)This Tableau dashboard visualizes key trends in AI data center electricity consumption, featuring metrics such as:
 
 - Total energy demand (TWh)
 - Year-over-year (YoY) growth rates
