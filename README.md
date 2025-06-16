@@ -5,6 +5,9 @@ Using an ETL pipeline built with Docker and Python, the data is extracted from p
 
 The goal is to understand how AI is influencing energy infrastructure over time, and to provide a scalable, reproducible foundation for analyzing similar trends across other domains.
 
+## Project Repository
+
+📁 [GitHub Repo – AI Data Center Energy Demand](https://github.com/pucci800/ai_dc_energy_demand)
 ---
 
 ## Tech Stack
