@@ -72,7 +72,7 @@ Source → Python (ETL Script) → BigQuery (Storage) → Tableau (Visualization
 - Tableau was used for visualization but no live connection to BigQuery was established.
   Instead, CSVs were uploaded to Tableau. Will do live connections to BigQuery-Tableau for future projects.
 
-([ETL Architecture](https://github.com/user-attachments/assets/5127314c-6de4-48e6-9b8c-0f0412c8e9df)
+[ETL Architecture](https://github.com/user-attachments/assets/5127314c-6de4-48e6-9b8c-0f0412c8e9df)
 
 This visual flow helps stakeholders and engineers quickly understand how data flows through the pipeline, from raw input to business insights.
 ---
