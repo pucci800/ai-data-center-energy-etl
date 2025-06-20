@@ -61,6 +61,20 @@ This Tableau dashboard visualizes key trends in AI data center electricity consu
 #### KPI Detail  
 ![KPI Detail](screenshots/Tableau2.png)
 
+##  Architecture Overview
+
+This ETL pipeline follows a simple but effective sequence for extracting and visualizing real-world data:
+
+Source → Python (ETL Script) → BigQuery (Storage) → Tableau (Visualization)
+
+- Python handles data extraction, cleaning, and transformation.
+- BigQuery stores the processed data efficiently for analysis.
+- Tableau was used for visualization but no live connection to BigQuery was established.
+  Instead, CSVs were uploaded to Tableau. Will do live connections to BigQuery-Tableau for future projects.
+
+([ETL Architecture](https://github.com/user-attachments/assets/5127314c-6de4-48e6-9b8c-0f0412c8e9df)
+
+This visual flow helps stakeholders and engineers quickly understand how data flows through the pipeline, from raw input to business insights.
 ---
 
 ## How to Run the Project
