@@ -74,7 +74,7 @@ Source → Python (ETL Script) → BigQuery (Storage) → Tableau (Visualization
 
 [ETL Architecture](https://github.com/user-attachments/assets/5127314c-6de4-48e6-9b8c-0f0412c8e9df)
 
-This visual flow helps stakeholders and engineers quickly understand how data flows through the pipeline, from raw input to business insights.
+This visual flow helps understanding on how data flows through the pipeline, from raw input to business insights.
 ---
 
 ## How to Run the Project
@@ -107,9 +107,7 @@ This project is licensed under the MIT License.
 
 ⸻
 
-Author
 
-Peter Puoch
 GitHub: pucci800
 Tableau Public: AI Data Center Energy Demand Dashboard---
 
